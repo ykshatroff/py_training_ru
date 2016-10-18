@@ -9,5 +9,5 @@
 
 [Лекция 04. Циклы. Операторы присваивания с модификацией. Логический тип данных. Строки.](https://github.com/ykshatroff/py_training_ru/blob/master/lecture_04.md) 
 
-[Лекция 05.  Контейнеры. Оператор членства `in`. Циклы `for`. Строки (продолжение).](https://github.com/ykshatroff/py_training_ru/blob/master/lecture_05.md)
+[Лекция 05. Утверждение `assert`. Строки (продолжение). Контейнеры. Оператор членства `in`. Циклы `for`.](https://github.com/ykshatroff/py_training_ru/blob/master/lecture_05.md)
 
