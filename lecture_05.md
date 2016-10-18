@@ -45,8 +45,8 @@ assert True
 assert 1 == 1  
 assert 0 != 1  
 assert not False
-assert False  # -> AssertionError
-assert False, "Comment"  # -> AssertionError: Comment
+assert False  # здесь программа закончится с ошибкой AssertionError
+assert False, "Comment"  # здесь программа закончится с ошибкой: AssertionError: Comment
 ```
 
 Далее мы будем использовать это утверждение в наших примерах.
