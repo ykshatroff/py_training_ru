@@ -5,7 +5,7 @@
 
 [Лекция 02. Ключевые слова. Комментарии. Управляющие структуры и блоки кода.](https://github.com/ykshatroff/py_training_ru/blob/master/lecture_02.md) 
 
-[Лекция 03. Функции в Python. Циклы. Логические типы данных.](https://github.com/ykshatroff/py_training_ru/blob/master/lecture_03.md) 
+[Лекция 03. Функции в Python. Встроенные и объявляемые функции.](https://github.com/ykshatroff/py_training_ru/blob/master/lecture_03.md) 
 
 [Лекция 04. Циклы. Операторы присваивания с модификацией. Логический тип данных. Строки.](https://github.com/ykshatroff/py_training_ru/blob/master/lecture_04.md) 
 
