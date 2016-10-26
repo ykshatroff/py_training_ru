@@ -304,3 +304,6 @@ for x in "apple":
 и после выхода из цикла.
 
 
+## Продолжение следут
+
+[Лекция 05а. Продолжение лекции 5: строки unicode. Изменяемость объектов.](https://github.com/ykshatroff/py_training_ru/blob/master/lecture_05a.md)
