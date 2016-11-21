@@ -306,4 +306,6 @@ for x in "apple":
 
 ## Продолжение следут
 
-[Лекция 05а. Продолжение лекции 5: строки unicode. Изменяемость объектов.](https://github.com/ykshatroff/py_training_ru/blob/master/lecture_05a.md)
+[Лекция 05а. Продолжение лекции 5: строки unicode. Изменяемость объектов.](./lecture_05a.md)
+
+[Оглавление](./README.md) [Предыдущая лекция](./lecture_05.md) 
